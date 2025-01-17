@@ -1,0 +1,6 @@
+This is what you will need to install to run the code properly
+
+Flask
+Flask-SQLAlchemy
+Flask-Limiter
+python-dotenv
